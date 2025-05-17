@@ -55,7 +55,8 @@ arima_model(data, '#Passengers', order=(5,1,0))
 ```
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/6aff7f22-98f8-4835-b90e-b52fb7d9a73e)
-![440266040-a0c146c6-24fd-47f3-87fc-c9e16951deba](https://github.com/user-attachments/assets/8156248f-4935-4856-baf8-eba1e227f69e)
+
+![image](https://github.com/user-attachments/assets/a9b63a90-768a-4182-8103-66690f831186)
 
 
 ### RESULT:
